@@ -11,10 +11,10 @@ This repository consist of all the topics that I had learned during learning of 
 5. Features of java.
 6. Command line arguments.
 7. Taking Input.
-  *Through Command Line.
-  *Through Scanner Class.
-  *Through Console Class.(preferd to use for competative programmming.
-  *Through Buffered class.
+    - Through Command Line.
+    - Through Scanner Class.
+    - Through Console Class.(preferd to use for competative programmming.
+    - Through Buffered class.
   
 8. Data types in java.
 9. Wrapper Classes.

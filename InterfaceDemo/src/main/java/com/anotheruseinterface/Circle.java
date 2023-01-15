@@ -8,9 +8,8 @@ public class Circle implements Shape{
 
     @Override
     public void findArea() {
-//        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-//        System.out.println("Area of circle : " + Shape.PI.(radius*radius));
-            System.out.println("Worked properly");
+            System.out.println("Area of circle : " + Shape.PI*(radius*radius));
+//            System.out.println("Worked properly");
     }
 
     
